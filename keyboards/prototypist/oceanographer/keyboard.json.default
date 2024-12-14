@@ -41,7 +41,7 @@
         },
         "layers": {
             "enabled": true,
-            "max": 5
+            "max": 4
         }
     },
     "matrix_pins": {
